@@ -36,7 +36,7 @@ Each problem is solved in a separate code cell and explained clearly using **Mar
 
 ## ✍️ **Author**
 
-**Master Ben**  
+**Ben Abraham Chacko**  
 *Driven by logic, refined by curiosity.*
 
 ---
